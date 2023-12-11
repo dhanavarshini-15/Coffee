@@ -1,0 +1,151 @@
+ 
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Coffee Shop</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #45282e;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        nav {
+            text-align: center;
+            background-color: #693f46;
+            padding: 10px;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 10px;
+        }
+
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .coffee-image {
+            width: 100%;
+            max-width: 600px;
+            display: block;
+            margin: 0 auto;
+        }
+
+        .menu-item {
+            border: 1px solid #ccc;
+            margin: 10px;
+            padding: 10px;
+            background-color: #fff;
+        }
+
+        footer {
+            background-color: #45282e;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to VARSHINI's Coffee Delight</h1>
+        <p>Your Daily Dose of Happiness</p>
+    </header>
+    
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Menu</a>
+        <a href="#">About Us</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <div class="container">
+        <img class="coffee-image" src="C:\Users\Dhanavarshini\Desktop\coffee.jpg" alt="Coffee Shop Image"><br><br>
+      <p style background colour:"brown"<p>"OUR DELICIOUS COOFEE MADE ITEMS"</p></style>
+         <video width="600" height="240" align:"centre" controls>
+        <source src="C:\Users\Dhanavarshini\Desktop\coofee.vedio.mp4" type="video/mp4">
+         </video>
+        
+        <div class="menu-item">
+<h>MENU ITEMS:)</h>
+            <h2>Espresso</h2>
+<img src="C:\Users\Dhanavarshini\Desktop\expresso.jpeg"width="80" height="60">
+            <p>A shot of pure energy in a cup.</p>
+        </div>
+        
+        <div class="menu-item">
+            <h2>Cappuccino</h2>
+         <img src="C:\Users\Dhanavarshini\Desktop\cappicino.jpeg"width="80" height="60">
+            <p>The perfect blend of espresso, steamed milk, and frothy foam.</p>
+        </div>
+<div class="menu-item">
+            <h2>Cold coffee</h2>
+<img src="C:\Users\Dhanavarshini\Desktop\cold coffee.jpeg"width="80" height="60">
+            <p>The smooth and creamy texture is often achieved through the addition of ice, milk, or cream, creating a refreshing and satisfying drink.</p>
+        </div>
+<div class="menu-item">
+            <h2>Latee</h2>
+<img src="C:\Users\Dhanavarshini\Desktop\latte.jpeg"width="80" height="60">
+            <p>Milk coffee that boasts a silky layer of foam as a real highlight to the drink. A true latte will be made up of one or two shots of espresso, steamed milk and a final, thin layer of frothed milk on top.</p>
+        </div>
+<div class="menu-item">
+            <h2></h2>
+            <p></p>
+        </div>
+    </div>
+    
+    <footer>
+        &copy; 2023 Coffee Delight
+
+
+<footer>
+    <div class="footer-content">
+        <div class="footer-logo">
+            <img src="C:\Users\Dhanavarshini\Desktop\logo coffee.png"width=150 height=100>
+            <h3>VARSHINI's Coffee Shop</h3>
+        </div>
+        <div class="contact-info">
+            <h4>Contact Us</h4>
+            <p>123 Coffee Street</p>
+            <p>City, State ZIP</p>
+            <p>Email: delight@coffeeshop.com</p>
+            <p>Phone: (123) 456-7890</p>
+        </div>
+        <div class="social-icons">
+            <h4>Follow Us</h4>
+            <a href="#"><img src="facebook-icon.png" alt="Facebook"></a>
+            <a href="#"><img src="twitter-icon.png" alt="Twitter"></a>
+            <a href="#"><img src="instagram-icon.png" alt="Instagram"></a>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        &copy; 2023 Coffee Shop. All rights reserved.
+    </div>
+</footer>
+
+
+</body>
+</html> 
+
+
+
+ 
+k 
